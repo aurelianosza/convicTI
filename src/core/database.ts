@@ -11,7 +11,8 @@ class SequelizeCore {
             host        : '0.0.0.0',
             port        : 6603,
             username    : 'root',
-            password    : 'toor'
+            password    : 'toor',
+            database    : 'convicti'
         });
     }
 
